@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
-<h3 align="center">Tech, Book, Chess and Cocktiel :)</h3>
+<h3 align="center">Tech, Book and Chess:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyj1&label=Profile%20views&color=0e75b6&style=flat" alt="psyj1" /> </p>
 
