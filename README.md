@@ -1,8 +1,6 @@
 <div align="center" style="margin-top: 40px;">
   <img src="https://64.media.tumblr.com/a5cb74ce5e6e26a190a725b5878a3659/tumblr_otowten5yH1tah9pwo2_1280.gif" alt="Lonely gentleman by the campfire" width="500px" style="border-radius: 30px; box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ffffff&size=16&center=true&vCenter=true&width=1000&lines=The+fire+doesn't+warn+me;It+understands+me.)](https://git.io/typing-svg)
-
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Psyj1&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00000000" alt="GitHub Stats"/>
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyj1&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000" />
